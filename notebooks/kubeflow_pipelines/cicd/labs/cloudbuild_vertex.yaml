@@ -13,7 +13,7 @@
 
 steps:
 # Build the trainer image
-- name: # TODO
+- name: "kfp-cli-vertex"
   args: # TODO
   dir:  # TODO
 
